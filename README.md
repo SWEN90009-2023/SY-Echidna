@@ -7,25 +7,25 @@ This repository contains all resources involved in our requirements analysis of 
 Synaesthesia is a perceptual condition where an individual's senses or cognitions can trigger a secondary sense or cognition. For example grapheme-colour synaesthesia describes an individual's ability to associate symbols with particular colours. This condition is rare, but is more commonly seen in people in creative fields, such as artists and musicians. The purpose of this project is to create a tool that can diagnose whether an individual is a synaesthete, with a focus on music-to-visual synaesthesia.
 
 ## :file_folder: File Structure
-####[data samples](data%20samples)
+### [data samples](data%20samples)
 Includes the documents and data needed to demonstrate our prototype.
 
-####[docs](docs)
+### [docs](docs)
 Includes documents on the project's background, meeting minutes, and requirements. 
 
-####[prototypes](prototypes)
+### [prototypes](prototypes)
 - **[high fidelity](prototypes/high%20fidelity)**
 - **[low fidelity](prototypes/low%20fidelity)**
 
 Includes our prototypes, low fidelity and high fidelity prototypes are found in their associated sub-folders.
 
-#### [tests](tests)
+### [tests](tests)
 Includes all user and system tests.
 
-#### [ui](ui)
+### [ui](ui)
 Includes all the graphical elements (i.e. images, fonts, backgrounds) used for our prototypes.
 
-#### [README](README.md)
+### [README](README.md)
 
 ## :busts_in_silhouette: Contact the Team
 | Name | Contact Details |
