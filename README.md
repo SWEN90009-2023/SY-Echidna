@@ -11,7 +11,7 @@ Synaesthesia is a perceptual condition where an individual's senses or cognition
 Includes the documents and data needed to demonstrate our prototype.
 
 ### [docs](docs)
-Includes documents on the project's background, meeting minutes, and requirements. 
+Includes documents on the project's background, requirements elicitation, etc. 
 
 ### [prototypes](prototypes)
 - **[high fidelity](prototypes/high%20fidelity)**
