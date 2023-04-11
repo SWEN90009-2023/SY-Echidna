@@ -28,6 +28,7 @@ Includes all the graphical elements (i.e. images, fonts, backgrounds) used for o
 ### [README](README.md)
 
 ## :busts_in_silhouette: Contact the Team
+### Student Team
 | Name | Contact Details |
 | ---- | --------------- |
 | Cheng Ze Lam | chengzel@student.unimelb.edu.au
@@ -35,6 +36,16 @@ Includes all the graphical elements (i.e. images, fonts, backgrounds) used for o
 | Kian Dsouza | kiand@student.unimelb.edu.au
 | Qingxuan Yang | qingxuany1@student.unimelb.edu.au
 | Jiaying Yi |  jiyi3@student.unimelb.edu.au
+
+### Supervisor 
+| Name | Contact Details |
+| ---- | --------------- |
+| Luke Rosa | luke.rosa@unimelb.edu.au |
+
+### Client
+| Name | Contact Details |
+| ---- | --------------- |
+| Dr Solange Glasser | solange.glasser@unimelb.edu.au |
 
 ## :running: Changelog
 This will be updated periodically to describe changes made to the repository in each sprint.
