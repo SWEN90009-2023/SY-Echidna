@@ -55,15 +55,17 @@ This will be updated periodically to describe changes made to the repository in 
 * Exported Confluence pages to [docs](docs) folder
     * Project Background/Problem Domain/Scope of Solution
     * Requirements Elicitation
-    * Sprint 1 document in [Sprint Documents](docs/Sprint-Documents/) folder
+    * Sprint 1 document in [Sprint Documents](docs/Sprint%20Documents/) folder
 * Created and updated README file
 
 ### [Sprint 2](https://github.com/SWEN90009-2023/SY-Echidna/releases/tag/SWEN90009_2023_SY_ECHIDNA_BL_SPRINT2) (24/03/23 - 12/04/23)
 * Create .gitignore
-* Create 
+* Update README
 * Exported Confluence pages to [docs](docs) folder
     * Persona
     * Do-Be-Feel List
     * Motivational Model
-    * Sprint 2 document in [Sprint Documents](docs/Sprint-Documents/) folder
+    * Sprint 2 document in [Sprint Documents](docs/Sprint%20Documents/) folder
+* Updated Confluence pages from sprint 1
+    * ...
 
