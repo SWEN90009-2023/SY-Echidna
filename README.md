@@ -50,9 +50,20 @@ Includes all the graphical elements (i.e. images, fonts, backgrounds) used for o
 ## :running: Changelog
 This will be updated periodically to describe changes made to the repository in each sprint.
 
-### Sprint 1
+### [Sprint 1](tree/SWEN90009_2023_SY_ECHIDNA_BL_SPRINT1) (13/03/23 - 24/03/23)
 * Populated repository with empty folders
-* Exported Confluence pages to docs folder
+* Exported Confluence pages to [docs](docs) folder
+    * Project Background/Problem Domain/Scope of Solution
+    * Requirements Elicitation
+    * Sprint 1 document in [Sprint Documents](docs/Sprint-Documents/) folder
 * Created and updated README file
 
+### [Sprint 2](tree/SWEN90009_2023_SY_ECHIDNA_BL_SPRINT2) (24/03/23 - 12/04/23)
+* Create .gitignore
+* Create 
+* Exported Confluence pages to [docs](docs) folder
+    * Persona
+    * Do-Be-Feel List
+    * Motivational Model
+    * Sprint 2 document in [Sprint Documents](docs/Sprint-Documents/) folder
 
