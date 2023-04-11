@@ -62,7 +62,7 @@ This will be updated periodically to describe changes made to the repository in 
 * Create .gitignore
 * Update README
 * Exported Confluence pages to [docs](docs) folder
-    * Persona
+    * Personas
     * Do-Be-Feel List
     * Motivational Model
     * Sprint 2 document in [Sprint Documents](docs/Sprint%20Documents/) folder
