@@ -50,7 +50,7 @@ Includes all the graphical elements (i.e. images, fonts, backgrounds) used for o
 ## :running: Changelog
 This will be updated periodically to describe changes made to the repository in each sprint.
 
-### [Sprint 1](github.com/SWEN90009-2023/SY-Echidna/tree/SWEN90009_2023_SY_ECHIDNA_BL_SPRINT1) (13/03/23 - 24/03/23)
+### [Sprint 1](https://github.com/SWEN90009-2023/SY-Echidna/releases/tag/SWEN90009_2023_SY_ECHIDNA_BL_SPRINT1) (13/03/23 - 24/03/23)
 * Populated repository with empty folders
 * Exported Confluence pages to [docs](docs) folder
     * Project Background/Problem Domain/Scope of Solution
@@ -58,7 +58,7 @@ This will be updated periodically to describe changes made to the repository in 
     * Sprint 1 document in [Sprint Documents](docs/Sprint-Documents/) folder
 * Created and updated README file
 
-### [Sprint 2](github.com/SWEN90009-2023/SY-Echidna/tree/SWEN90009_2023_SY_ECHIDNA_BL_SPRINT2) (24/03/23 - 12/04/23)
+### [Sprint 2](https://github.com/SWEN90009-2023/SY-Echidna/releases/tag/SWEN90009_2023_SY_ECHIDNA_BL_SPRINT2) (24/03/23 - 12/04/23)
 * Create .gitignore
 * Create 
 * Exported Confluence pages to [docs](docs) folder
