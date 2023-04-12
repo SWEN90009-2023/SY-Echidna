@@ -66,6 +66,3 @@ This will be updated periodically to describe changes made to the repository in 
     * Do-Be-Feel List
     * Motivational Model
     * Sprint 2 document in [Sprint Documents](docs/Sprint%20Documents/) folder
-* Updated Confluence pages from sprint 1
-    * ...
-
