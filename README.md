@@ -4,7 +4,7 @@ Welcome! We are Team Echidna.
 This repository contains all resources involved in our requirements analysis of the Synaesthesia project in SWEN90009 Software Requirements Analysis 2023.
  
 ## :speech_balloon: Project Description
-Synaesthesia is a perceptual condition where an individual's senses or cognitions can trigger a secondary sense or cognition. For example, grapheme-colour synaesthesia describes an individual's ability to associate symbols with particular colours. This condition is rare but is more commonly seen in people in creative fields, such as artists and musicians. The purpose of this project is to create an online tool that can diagnose whether an individual is a synaesthete, with a focus on music-to-visual synaesthesia. Current diagnostic tools to test for synaesthesia are quite basic, and do not capture in enough detail what a synaesthete experiences when listening to music. Synaesthetes can often see images that are too complex to be described by stating a single colour and/or shape. The tool will ideally allow users to input their response when listening to a series of musical sounds and songs in more detail. Because an individual synaesthete would normally have the same response for a particular sound or song every time they are played, the test will be evaluating based on the consistency of their responses for similar prompts. Through this tool, the goal is to gain further insight into synaesthesia for research, and provide an easily accessible way for users to test for whether they have synaesthesia.
+Synaesthesia is a perceptual condition where an individual's senses or cognitions can trigger a secondary sense or cognition. For example, grapheme-colour synaesthesia describes an individual's ability to associate symbols with particular colours. This condition is rare but is more commonly seen in people in creative fields, such as artists and musicians. The purpose of this project is to create an online tool that can diagnose whether an individual is a synaesthete, with a focus on music-to-visual synaesthesia. Current diagnostic tools to test for synaesthesia are quite basic, and do not capture in enough detail what a synaesthete experiences when listening to music. Synaesthetes can often see images that are too complex to be described by stating a single colour and/or shape. The tool will ideally allow users to input their response when listening to a series of musical sounds and songs in more detail. Because an individual synaesthete would normally have the same response for a particular sound or song every time they are played, the test will be evaluating based on the consistency of their responses to similar prompts. Through this tool, the goal is to gain further insight into synaesthesia for research, and provide an easily accessible way for users to test for whether they have synaesthesia.
 
 ## :file_folder: File Structure
 ### [data samples](data%20samples)
@@ -60,9 +60,14 @@ This will be updated periodically to describe changes made to the repository in 
 
 ### [Sprint 2](https://github.com/SWEN90009-2023/SY-Echidna/releases/tag/SWEN90009_2023_SY_ECHIDNA_BL_SPRINT2) (24/03/23 - 12/04/23)
 * Created .gitignore
-* Updated README
+* Updated README file
 * Exported Confluence pages to [docs](docs) folder
     * Personas
     * Do-Be-Feel List
     * Motivational Model
     * Sprint 2 document in [Sprint Documents](docs/Sprint%20Documents/) folder
+* Uploaded updated Confluence pages to [docs](docs) folder from sprint 1
+    * Project Home page
+    * Project Background/Problem Domain/Scope of Solution/Out of Scope
+    * Requirements Elicitation
+    * Team Processes
