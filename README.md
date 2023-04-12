@@ -66,7 +66,7 @@ This will be updated periodically to describe changes made to the repository in 
     * Do-Be-Feel List
     * Motivational Model
     * Sprint 2 document in [Sprint Documents](docs/Sprint%20Documents/) folder
-* Uploaded updated Confluence pages to [docs](docs) folder from sprint 1
+* Uploaded updated Confluence pages from sprint 1 to [docs](docs) folder
     * Project Home page
     * Project Background/Problem Domain/Scope of Solution/Out of Scope
     * Requirements Elicitation
