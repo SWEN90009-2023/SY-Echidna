@@ -68,7 +68,6 @@ This will be updated periodically to describe changes made to the repository in 
     * Motivational Model
     * Sprint 2 document
 * Uploaded updated Confluence pages from sprint 1 to [Sprint 1](docs/Sprint%201) folder in docs
-    * Project Home page
     * Project Background
     * Requirements Elicitation
     * Team Processes
