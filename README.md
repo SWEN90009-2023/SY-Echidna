@@ -65,7 +65,7 @@ This will be updated periodically to describe changes made to the repository in 
     * Do-Be-Feel List
     * Motivational Model
     * Sprint 2 document
-* Uploaded updated Confluence pages from sprint 1 to [Sprint 1](docs/Sprint%201) folder in docs
+* Uploaded updated Confluence pages from sprint 1 to [Sprint 1](https://github.com/SWEN90009-2023/SY-Echidna/blob/main/docs/Sprint_Planning_Document/Sprint1_Planning.pdf) folder in docs
     * Project Background
     * Requirements Elicitation
     * Team Processes
