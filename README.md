@@ -60,7 +60,7 @@ This will be updated periodically to describe changes made to the repository in 
 
 ### [Sprint 2](https://github.com/SWEN90009-2023/SY-Echidna/releases/tag/SWEN90009_2023_SY_ECHIDNA_BL_SPRINT2) (24/03/23 - 12/04/23)
 * Added sprint subfolders to [docs](docs)
-* Exported Confluence pages from sprint 2 to [Sprint 2](docs/Sprint%202) folder in docs
+* Exported Confluence pages from sprint 2 to [Sprint 2](https://github.com/SWEN90009-2023/SY-Echidna/blob/main/docs/Sprint_Planning_Document/Sprint2_Planning.pdf) folder in docs
     * Personas
     * Do-Be-Feel List
     * Motivational Model
@@ -73,7 +73,7 @@ This will be updated periodically to describe changes made to the repository in 
 ### [Sprint 3](https://github.com/SWEN90009-2023/SY-Echidna/releases/tag/SWEN90009_2023_SY_ECHIDNA_BL_SPRINT2) (13/04/23 - 28/04/23)
 * Move the all the requirement documents from sprint subfolders to [docs](docs)
 * Added sprint 3 subfolders to [docs](docs)
-* Exported Confluence pages to [Sprint 3](docs/Sprint%203) folder in docs
+* Exported Confluence pages to [Sprint 3](https://github.com/SWEN90009-2023/SY-Echidna/blob/main/docs/Sprint_Planning_Document/Sprint3_Planning.pdf) folder in docs
     * Sprint 3 planning document
 * Exported Confluence pages to [docs](docs)
     * User stories, user story map and low fidelity prototype in a pdf
