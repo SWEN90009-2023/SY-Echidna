@@ -70,7 +70,7 @@ This will be updated periodically to describe changes made to the repository in 
     * Requirements Elicitation
     * Team Processes
 
-### [Sprint 3](https://github.com/SWEN90009-2023/SY-Echidna/releases/tag/SWEN90009_2023_SY_ECHIDNA_BL_SPRINT2) (13/04/23 - 28/04/23)
+### [Sprint 3](https://github.com/SWEN90009-2023/SY-Echidna/releases/tag/SWEN90009_2023_SY_ECHIDNA_BL_SPRINT3) (13/04/23 - 28/04/23)
 * Move the all the requirement documents from sprint subfolders to [docs](docs)
 * Added sprint 3 subfolders to [docs](docs)
 * Exported Confluence pages to [Sprint 3](https://github.com/SWEN90009-2023/SY-Echidna/blob/main/docs/Sprint_Planning_Document/Sprint3_Planning.pdf) folder in docs
