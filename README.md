@@ -78,3 +78,12 @@ This will be updated periodically to describe changes made to the repository in 
 * Exported Confluence pages to [docs](docs)
     * User stories, user story map and low fidelity prototype in a pdf
 
+### [Sprint 4](https://github.com/SWEN90009-2023/SY-Echidna/releases/tag/SWEN90009_2023_SY_ECHIDNA_BL_SPRINT4) (29/04/23 - 26/05/23)
+* Move the all the requirement documents from sprint subfolders to [docs](docs)
+* Added sprint 4 subfolders to [docs](docs)
+* Exported Confluence pages to [Sprint 4](https://github.com/SWEN90009-2023/SY-Echidna/blob/SWEN90009_2023_SY_ECHIDNA_BL_SPRINT4/docs/Sprint_Planning_Document/Sprint4_Planning.pdf) folder in docs
+    * Sprint 4 planning document
+* Exported Confluence pages to [docs](docs)
+    * acceptance test, acceptance criteria, traceability matrix, usability test and feedback and moodboard in a pdf
+
+
