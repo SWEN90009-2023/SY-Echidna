@@ -11,7 +11,7 @@ Synaesthesia is a perceptual condition where an individual's senses or cognition
 The data sample document includes sample data that can be used to simulate tasks and scenarios in the final digital prototype.
 
 ### [Documents](Documents)
-This includes the requirements documents which have been generated throughtout the requirement elication and analysis phase of the project.
+This includes the requirements documents which have been generated throughout the requirement elication and analysis phase of the project.
 It contains documents describing the project background, requirement elicitation, personas, do-be-feel list, user stories, user story map, acceptance criteria and tests, and the traceability matrix.
 
 ### [Prototypes](prototypes)
