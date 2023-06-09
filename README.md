@@ -7,22 +7,22 @@ This repository contains all resources involved in our requirements analysis of 
 Synaesthesia is a perceptual condition where an individual's senses or cognitions can trigger a secondary sense or cognition. For example, grapheme-colour synaesthesia describes an individual's ability to associate symbols with particular colours. This condition is rare but is more commonly seen in people in creative fields, such as artists and musicians. The purpose of this project is to create an online tool that can diagnose whether an individual is a synaesthete, with a focus on music-to-visual synaesthesia. Current diagnostic tools to test for synaesthesia are quite basic, and do not capture in enough detail what a synaesthete experiences when listening to music. Synaesthetes can often see images that are too complex to be described by stating a single colour and/or shape. The tool will ideally allow users to input their response when listening to a series of musical sounds and songs in more detail. Because an individual synaesthete would normally have the same response for a particular sound or song every time they are played, the test will be evaluating based on the consistency of their responses to similar prompts. Through this tool, the goal is to gain further insight into synaesthesia for research, and provide an easily accessible way for users to test for whether they have synaesthesia.
 
 ## :file_folder: File Structure
-### [data samples](data%20samples)
+### [Data Sample](Data%20Sample)
 Includes the documents and data needed to demonstrate our prototype.
 
-### [docs](docs)
+### [Documents](Documents)
 Includes documents on the project's background, requirements elicitation, etc. 
 
-### [prototypes](prototypes)
-- **[high fidelity](prototypes/high%20fidelity)**
-- **[low fidelity](prototypes/low%20fidelity)**
+### [Prototypes](Prototypes)
+- **[high fidelity](Prototypes/high%20fidelity)**
+- **[low fidelity](Prototypes/low%20fidelity)**
 
 Includes our prototypes, low fidelity and high fidelity prototypes are found in their associated sub-folders.
 
-### [tests](tests)
+### [Tests](tests)
 Includes all user and system tests.
 
-### [ui](ui)
+### [UI](UI)
 Includes all the graphical elements (i.e. images, fonts, backgrounds) used for our prototypes.
 
 ### [README](README.md)
