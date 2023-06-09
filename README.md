@@ -13,7 +13,7 @@ Includes the documents and data needed to demonstrate our prototype.
 ### [Documents](Documents)
 Includes documents on the project's background, requirements elicitation, etc. 
 
-### [Prototypes](Prototypes)
+### [Prototypes](prototypes)
 - **[high fidelity](Prototypes/high%20fidelity)**
 - **[low fidelity](Prototypes/low%20fidelity)**
 
@@ -22,7 +22,7 @@ Includes our prototypes, low fidelity and high fidelity prototypes are found in 
 ### [Tests](tests)
 Includes all user and system tests.
 
-### [UI](UI)
+### [UI](ui)
 Includes all the graphical elements (i.e. images, fonts, backgrounds) used for our prototypes.
 
 ### [README](README.md)
