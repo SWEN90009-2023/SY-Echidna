@@ -8,22 +8,22 @@ Synaesthesia is a perceptual condition where an individual's senses or cognition
 
 ## :file_folder: File Structure
 ### [Data Sample](Data%20Sample)
-Includes the documents and data needed to demonstrate our prototype.
+The data sample document includes sample data that can be used to simulate tasks and scenarios in the final digital prototype.
 
 ### [Documents](Documents)
-Includes documents on the project's background, requirements elicitation, etc. 
+This includes the requirements documents which have been generated throughtout the requirement elication and analysis phase of the project.
+It contains documents describing the project background, requirement elicitation, personas, do-be-feel list, user stories, user story map, acceptance criteria and tests, and the traceability matrix.
 
 ### [Prototypes](prototypes)
+This includes our prototypes, low fidelity and high fidelity prototypes are found in their associated sub-folders.
 - **[high fidelity](Prototypes/high%20fidelity)**
 - **[low fidelity](Prototypes/low%20fidelity)**
 
-Includes our prototypes, low fidelity and high fidelity prototypes are found in their associated sub-folders.
-
 ### [Tests](tests)
-Includes all user and system tests.
+This includes the Usability test which was conducted with the client, as well as the Acceptance tests.
 
 ### [UI](ui)
-Includes all the graphical elements (i.e. images, fonts, backgrounds) used for our prototypes.
+This includes the moodboard containing all the graphical elements (i.e. images, fonts, backgrounds) used for our prototypes.
 
 ### [README](README.md)
 
